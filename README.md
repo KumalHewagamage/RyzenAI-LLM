@@ -1,9 +1,12 @@
 <H2>Quantization Workflow</H2>
+
 ![alt text](Images/concept.png)
 ![alt text](Images/flow)
+
 *based on RyzenAI transformer workflow
 
 Converted models can be find at <a href="https://huggingface.co/logicbomb95/Llama-2-7b-chat-hf-AMD-NPU">Hugging Face</a>.
+
 <H2>Setting Up The NPU Development Enviroment</H2>
 
 <H3>NPU Available Devices</H3>
