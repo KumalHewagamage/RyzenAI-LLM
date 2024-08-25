@@ -1,7 +1,7 @@
 <H2>Quantization Workflow</H2>
 
 ![alt text](Images/concept.png)
-![alt text](Images/flow)
+![alt text](Images/flow.png)
 
 *based on RyzenAI transformer workflow
 
